@@ -10,7 +10,7 @@
 ##### Data Loading
 ##### Data cleaning
 ##### EDA
-##### Data Preparation
+##### Data Preparation(Feature and Label Selection)
 ##### Different Model Implementations
 ##### Final Model Selection
 ##### Tuning the final model
